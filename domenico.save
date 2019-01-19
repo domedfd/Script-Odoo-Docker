@@ -1,0 +1,7 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                              NAMES
+55cae73b3c5f        odoo                "/entrypoint.sh odoo"    27 hours ago        Up 3 hours          8071/tcp, 0.0.0.0:8070->8069/tcp   chiquillo
+9890f87515d7        postgres            "docker-entrypoint.s…"   27 hours ago        Up 27 hours         5432/tcp                           db
+55cae73b3c5f        odoo                "/entrypoint.sh odoo"    27 hours ago        Up 3 hours          8071/tcp, 0.0.0.0:8070->8069/tcp   chiquillo
+9890f87515d7        postgres            "docker-entrypoint.s…"   27 hours ago        Up 27 hours         5432/tcp                           db55cae73b3c5f        odoo                "/entrypoint.sh odoo"    27 hours ago        Up 3 hours          8071/tcp, 0.0.0.0:8070->8069/tcp   chiquillo
+9890f87515d7        postgres            "docker-entrypoint.s…"   27 hours ago        Up 27 hours         5432/tcp                           db55cae73b3c5f        odoo                "/entrypoint.sh odoo"    27 hours ago        Up 3 hours          8071/tcp, 0.0.0.0:8070->8069/tcp   chiquillo
+9890f87515d7        postgres            "docker-entrypoint.s…"   27 hours ago        Up 27 hours         5432/tcp                           db
